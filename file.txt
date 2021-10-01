@@ -1,4 +1,7 @@
 from usaznaknihovna1 import dulezita_funkce
+from uzasnejsi_knihovna import dulezitejsi_funkce
 
+
+dulezitejsi_funkce("talir", "rohlik")
 
 dulezita_funkce("plechovka", 5)
