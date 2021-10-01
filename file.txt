@@ -15,4 +15,4 @@ def uzasna_funkce2(brr):
   
   
 def uzasna_funkce3(brr):
-  pass
+  return "baricek vole"
