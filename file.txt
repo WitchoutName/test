@@ -1,0 +1,4 @@
+from usaznaknihovna1 import dulezita_funkce
+
+
+dulezita_funkce("plechovka", 5)
