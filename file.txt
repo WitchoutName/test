@@ -7,7 +7,8 @@ dulezita_funkce("plechovka", 45)
 
 
 def uzasna_funkce(brr):
-  pass
+  # uzasna funkce returnuje 42
+  return 42
   
 def uzasna_funkce2(brr):
   pass
