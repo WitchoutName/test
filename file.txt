@@ -3,5 +3,4 @@ from uzasnejsi_knihovna import dulezitejsi_funkce
 
 
 dulezitejsi_funkce("talir", "rohlik")
-
-dulezita_funkce("plechovka", 5)
+dulezita_funkce("plechovka", 45)
