@@ -11,7 +11,7 @@ def uzasna_funkce(brr):
   return 42
   
 def uzasna_funkce2(brr):
-  pass
+  return dulezita_funkce("lzice a nuz")
   
   
 def uzasna_funkce3(brr):
